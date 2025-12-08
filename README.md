@@ -4,7 +4,7 @@
 
 #### Contents:
 - **Part 1**: [droplet condensational growth in an adiabatic parcel model](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_1.ipynb)    
-- **Part 2**: CCN activation via diffusional growth, evaportation and Ostwald ripening
+- **Part 2**: CCN activation via diffusional growth, evaporation and Ostwald ripening
 - **Part 3**: [SDM collisional growth Monte-Carlo algorithm in a box model (with validation against analytic solution to Smoluchowski equation)](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_3.ipynb)      
 - **Part 4**: particle-based μ-physics simulations with diffusional & collisional processes using PySDM (box, parcel, single-column and beyond)
 
