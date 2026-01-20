@@ -12,12 +12,12 @@
   - moving-sectional/particle-based representation of cloud microphysics;
   - "SDM" Monte-Carlo algorithm for solving coagulation problems;
   - ODEs describing evolution of liquid particle sizes in a vertically displaced adiabatic parcel of humid air for modelling diffusional growth and the resultant phenomena of aerosol activarion and drop ripening.
-- Outline the rationale behind, present the usage examples, encourage your contributions to the [PySDM](https://open-atmos.github.io/PySDM/) package
+- Outline the rationale behind, present the usage examples & encourage your contributions to the [PySDM](https://open-atmos.github.io/PySDM/) package
 
 #### Notebooks:
 - **Part 1**: size spectrum sampling using SciPy
-  - partial
-  - [complete](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_1_scipy_sampling.ipynb)
+  - [partial](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_1_scipy_sampling_partial.ipynb)
+  - [complete](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_1_scipy_sampling_complete.ipynb)
 - **Part 2**: SDM collisional growth Monte-Carlo algorithm in a box model (incl. validation against the Safranov-Golovin analytic solution to the Smoluchowski equation)
   - partial
   - [complete](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_2_SDM_complete.ipynb)      
