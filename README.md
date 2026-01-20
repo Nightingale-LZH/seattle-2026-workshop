@@ -1,12 +1,10 @@
-## mini-workshop to be held at University of Washington in Seattle, in January 2026
-
-#### Topic: exploring aerosol-cloud μ-physics modelling concepts using productivity- and interactivity-oriented Python tools  
+# hacking aerosol-cloud μ-physics modeling concepts in Python
+### (mini-workshop @Uni. Washington Seattle, Jan 2026)
 
 #### Contents:
-- **Part 1**: [droplet condensational growth in an adiabatic parcel model](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_1.ipynb)    
-- **Part 2**: CCN activation via diffusional growth, evaportation and Ostwald ripening
-- **Part 3**: [SDM collisional growth Monte-Carlo algorithm in a box model (with validation against analytic solution to Smoluchowski equation)](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_3.ipynb)      
-- **Part 4**: particle-based μ-physics simulations with diffusional & collisional processes using PySDM (box, parcel, single-column and beyond)
+- **Part 1**: [SDM collisional growth Monte-Carlo algorithm in a box model (with validation against analytic solution to Smoluchowski equation)](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_1_SDM.ipynb)      
+- **Part 2**: [condensational growth (incl. activation and ripening) in an adiabatic parcel model](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_2_CCN.ipynb)    
+- **Part 3**: particle-based μ-physics simulations with diffusional & collisional processes using PySDM (box, parcel, single-column and beyond)
 
 #### Tools:
 - [Pint](https://pint.readthedocs.io/) (dimensional analysis and auto-labelling plots with units)
@@ -16,6 +14,6 @@
 
 #### License: [Creative Commons Zero](https://creativecommons.org/public-domain/cc0/) (i.e. public domain)
 
-#### Credits: materials composed by [Sylwester Arabas](https://slayoo.github.io) based on code co-authored by Emma Ware (UCDavis) & Agnieszka Żaba (AGH)
+#### Credits: materials composed by [Sylwester Arabas (AGH)](https://slayoo.github.io), [Emma Ware (UCDavis)](https://emmaware.weebly.com/) with contributions from Daria Klimaszewska (AGH) & Agnieszka Żaba (AGH)
 
 #### Funding: European Union Erasmus+ Staff Mobility programme
