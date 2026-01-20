@@ -5,8 +5,8 @@
 
 #### Notebooks:
 - **Part 1**: size spectrum sampling using SciPy
-  - [partial]()
-  - [complete]()
+  - partial
+  - [complete](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_1_scipy_sampling.ipynb)
 - **Part 2**: SDM collisional growth Monte-Carlo algorithm in a box model (incl. validation against the Safranov-Golovin analytic solution to the Smoluchowski equation)
   - partial
   - [complete](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_2_SDM_complete.ipynb)      
