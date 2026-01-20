@@ -5,6 +5,8 @@
 - [Sylwester Arabas (AGH.edu.pl)](https://open-atmos-krk.github.io/)
 - [Emma Ware (UCDavis.edu)](https://emmaware.weebly.com/)
 
+(acknowledging Erasmus+ support!)
+
 #### Synopsis: we're going to
 - Code in a Pythonic way, and interactively explore (simple yet functional) models of diffusional and collisional growth of cloud droplets.
 - Leverage Jupyter notebooks, the [Google Colab platform](https://colab.google/), and the Python scientific package ecosystem
