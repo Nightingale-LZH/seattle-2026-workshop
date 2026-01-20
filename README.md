@@ -5,9 +5,9 @@
 - [Sylwester Arabas (AGH.edu.pl)](https://open-atmos-krk.github.io/)
 - [Emma Ware (UCDavis.edu)](https://emmaware.weebly.com/)
 
-#### TLl;DR, we're going to:
+#### TL;DR, we're going to:
 - Code in a Pythonic way, and interactively explore (simple yet functional) models of diffusional and collisional growth of cloud droplets.
-- Leverage Jupyter notebooks, [Google Colab platform](https://colab.google/), and the Python scientific package ecosystem (often effectively using Python as a glue language)
+- Leverage Jupyter notebooks, the [Google Colab platform](https://colab.google/), and the Python scientific package ecosystem
 - Focus on: 
   - moving-sectional/particle-based representation of cloud microphysics;
   - "SDM" Monte-Carlo algorithm for solving coagulation problems;
@@ -45,6 +45,6 @@
 
 #### License: [Creative Commons Zero](https://creativecommons.org/public-domain/cc0/) (i.e. public domain)
 
-#### Credits: materials composed by [Sylwester Arabas (AGH)](https://slayoo.github.io), [Emma Ware (UCDavis)](https://emmaware.weebly.com/) with contributions from Daria Klimaszewska (AGH) & Agnieszka Żaba (AGH)
+#### Credits: materials composed by [Sylwester Arabas (AGH)](https://slayoo.github.io) and [Emma Ware (UCDavis)](https://emmaware.weebly.com/) with contributions from [Daria Klimaszewska (AGH)](https://github.com/thearia0/) & [Agnieszka Żaba (AGH)](https://github.com/AgnieszkaZaba)
 
 #### Funding: European Union Erasmus+ Staff Mobility programme
